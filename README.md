@@ -12,7 +12,7 @@ To use this script, you must have Python 3 installed on your system.
 
 	python subdomain_scanner.py example.com
 
-Replace example.com with the domain you want to scan.
+Replace example.com with the domain you want to scan. 
 
 The script will loop through a pre-defined list of common subdomains and attempt to resolve each one by appending it to the specified domain. If a subdomain resolves successfully, the script will output a message indicating that the subdomain was found.
 
