@@ -10,8 +10,7 @@ To use this script, you must have Python 3 installed on your system.
 2. Open a terminal window and navigate to the directory where you cloned the repository.
 3. Run the following command:
 
-
-    python subdomain_scanner.py example.com
+`python subdomain_scanner.py example.com`
 
 Replace **example.com** with the domain you want to scan. 
 
